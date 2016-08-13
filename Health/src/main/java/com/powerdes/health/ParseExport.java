@@ -189,7 +189,7 @@ public class ParseExport {
 		s = new StringBuilder();
 		s.append("Date,Flights" + "\r\n" );
 		for(Date key: FlightsClimbed.keySet()) {
-			s.append(key.toString()+","+FlightsClimbed.get(key));
+			s.append(key.toString()+","+FlightsClimbed.get(key) + "\r\n");
 		}
 
 		try {
