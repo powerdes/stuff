@@ -3,7 +3,7 @@ XML output from Iphone Health app is pretty crappy, this package calculates some
 
 ## Maven Build Goals
 ```
-mvn clean compile install
+mvn clean compile package
 ```	
 
 ## Usage
