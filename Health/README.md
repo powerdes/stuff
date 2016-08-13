@@ -2,10 +2,14 @@
 XML output from Iphone Health app is pretty crappy, this package calculates some averages and outputs the raw data, split by date.
 
 ## Maven Build Goals
+```
 mvn clean compile install
+```	
 
 ## Usage
+```
 java -cp Health-1.0-SNAPSHOT.jar com.powerdes.Health.ParseHealthExport input/Export.xml
+```
 
 ## Sample Console Output
 ```
