@@ -1,5 +1,5 @@
 ## Summary
-XML output from Iphone Health app is pretty crappy, this package calculates some averages and outputs the raw data, split by date.
+XML output from Iphone Health app is pretty crappy, this package calculates some averages and outputs the raw data, split by date into csv files for further processing.
 
 ## Maven Build Goals
 ```
