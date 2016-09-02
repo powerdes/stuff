@@ -11,7 +11,8 @@ mvn clean compile package
 Ensure folder structure in directory is
 ``
 .
-+-- script
-+-- Optimizer.exe	
+    .
+    ├── script                  
+    └── Optimizer.exe
 ``
 To run, simply double click Optimizer.exe
